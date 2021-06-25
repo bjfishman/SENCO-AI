@@ -1,0 +1,50 @@
+18:16:20 - Log file created.
+18:16:20 - -------INITIALIZATION-------
+18:16:20 - Config file loaded
+18:16:20 - Experiment data folder: C:/Surfdrive/Shared/^Marble/Fiona_PilotData/2021-03-25/2021-03-25_001_localizer_MP/NeurofeedbackValues/
+18:16:20 - Input mode: BOTH
+18:16:20 - Text-To-Speech: Off
+18:16:20 - -----GPT-3 Settings-----
+18:16:20 - Model: davinci
+18:16:20 - Temperature: 0.7
+18:16:20 - Length: 1
+18:16:20 - top_p: 1.0
+18:16:20 - -----Timings------
+18:16:20 - Main initial delay: 0
+18:16:20 - Main first phase: 2
+18:16:20 - Main second phase: 2
+18:16:20 - Main third phase: 2
+18:16:20 - Main fourth phase: 2
+18:16:20 - Main fifth phase: 2
+18:16:20 - Main end phase: 2
+18:16:20 - Prediction initial delay: 2
+18:16:20 - Prediction first phase: 2
+18:16:20 - Prediction second phase: 2
+18:16:20 - Prediction third phase: 2
+18:16:20 - Prediction fourth phase: 2
+18:16:20 - Prediction fifth phase: 2
+18:16:20 - Prediction end phase: 0
+18:16:20 - -----Pygame------
+18:16:21 - Pygame initialized
+18:16:21 - -----Fonts------
+18:16:21 - Font selected: Arial
+18:16:21 - Font sizes: 
+18:16:21 - Smallest: 25
+18:16:21 - Small: 45
+18:16:21 - Standard: 60
+18:16:21 - Fonts loaded
+18:16:21 - -----Screen------
+18:16:21 - Screen size detected: 2560x1440
+18:16:21 - Window mode: Windowed
+18:16:21 - -----------------
+18:16:21 - Dictionary file: dictionary_simple.txt
+18:16:21 - Length of dictionary: 2229
+18:16:21 - TSI network interface connected!
+18:16:21 - NF wipe error: [WinError 3] The system cannot find the path specified: 'C:/Surfdrive/Shared/^Marble/Fiona_PilotData/2021-03-25/2021-03-25_001_localizer_MP/NeurofeedbackValues/'
+18:16:21 - -------INITIALIZATION DONE-------
+18:16:24 - NF wipe error: [WinError 3] The system cannot find the path specified: 'C:/Surfdrive/Shared/^Marble/Fiona_PilotData/2021-03-25/2021-03-25_001_localizer_MP/NeurofeedbackValues/'
+18:16:24 - New main loop called.
+18:16:24 - Neurofeedback data folder incorrectly configured!
+18:16:24 - Current middle word: LOOK
+18:16:26 - Protocol file error: Not enough conditions measured to create a protocol.
+18:16:26 - Quitting
